@@ -99,3 +99,22 @@
 .navbar-nav .nav-item:hover .nav-link {
     color: black!important;;
 }
+.title {
+  padding-top: 3rem;
+}
+
+p {
+  padding-top: 1.5rem;
+}
+
+.footer {
+  padding:3rem;
+color: #CCCCCC;
+}
+.thumbs {
+  padding-left: 1.5em;
+  padding-top: 3em;
+}
+.border-bottom .border-secondary {
+  padding-top: 10em!important;
+}
